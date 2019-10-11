@@ -1,4 +1,4 @@
-title: Derrick Wells – Independent Product Designer
+title: Aindriya Barua – Buy me a biryani!
 logo:  # you can add own logo.
 description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -7,11 +7,11 @@ url: "https://buymeabiryani.github.io/" # the base hostname & protocol for your 
 
 # Author Settings
 author:
-  name: Derrick Wells
+  name: Aindriya Barua
   image: '/assets/img/01.jpg'
   job: Independent Product Designer
   bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-  email: forexample@website.com
+  email: barua.aindriya@gmail.com
 
 
 # Contact links
@@ -21,7 +21,7 @@ contact:
   - name: Facebook
     link: https://facebook.com/
   - name: Instagram
-    link: https://instagram.com/
+    link: https://instagram.com/hues.on.my.canvas
 
 
 # Comment Section (Disqus)
